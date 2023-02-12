@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashhooda
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Java, C++, Python, C#
-- 💞️ I’m looking to collaborate on Java, C++, Python, C# 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ... by email 
 email: yash.hooda6@gmail.com
 <!---
