@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashhooda
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-- 💞️ I’m looking to collaborate on Python, R, SQL, Java, C++, C, Linux, JavaScript.
+- 🌱 I’m currently learning Machine Learning, CyberSecurity, and Artificial Intelligence
+- 💞️ I’m looking to collaborate on Python, R, SQL, Git, Java, C++, C, Linux, JavaScript.
 - 📫 How to reach me ... by email 
 email: yash.hooda6@gmail.com
 <!---
