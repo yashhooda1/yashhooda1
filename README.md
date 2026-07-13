@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer&descAlignY=52&descSize=20&animation=fadeIn" width="100%" />
 
 <a href="https://yashhooda.ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1200&color=4CAF50&center=true&vCenter=true&width=700&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%2C+shipped+and+serving+traffic.;Toast+POS+%E2%86%92+Delta+Lake+%E2%86%92+25-store+franchise+analytics.;I+build+the+data+layer+AI+actually+runs+on." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic.;Toast+POS+%E2%86%92+Delta+Lake+%E2%86%92+25-store+franchise+analytics.;I+build+the+data+layer+AI+actually+runs+on." alt="Typing SVG" />
 </a>
 
 <br/>
