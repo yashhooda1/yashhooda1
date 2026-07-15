@@ -28,7 +28,7 @@ Day job: I own an end-to-end **Toast POS → PySpark → Delta Lake → Power BI
 The overlap is the whole point. **Most people doing AI can't build the data layer. Most people building data layers can't ship AI.** I do both.
 
 📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas · 📜 Databricks Certified Data Engineer Associate
-🟢 **Open to Senior Data Engineer / AI Engineer roles — remote or Houston hybrid**
+🟢 **Open to Data Engineer / AI Engineer roles — remote or Houston hybrid**
 
 ---
 
