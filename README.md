@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer&descAlignY=52&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer%20·%20Aspiring%20Airline%20Pilot%20%E2%9C%88%EF%B8%8F&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://yashhooda.ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic.;Toast+POS+%E2%86%92+Delta+Lake+%E2%86%92+25-store+franchise+analytics.;I+build+the+data+layer+AI+actually+runs+on." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic.;Now+training+to+fly+%E2%80%94+ATP+Airline+Career+Pilot+Program.;Engineer's+discipline%2C+aimed+at+the+flight+deck." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,22 +13,36 @@
 <a href="https://linkedin.com/in/yash-hooda-384430242"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yash.hooda6@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F_Now_training-ATP_Flight_School_·_Sugar_Land_(SGR)-3b82f6?style=for-the-badge&logoColor=white" />
+
 <img src="https://komarev.com/ghpvc/?username=yashhooda1&label=Profile%20views&color=4caf50&style=flat-square" alt="views" />
 
 </div>
 
 ---
 
+### `> now.log`
+
+**✈️ Chasing the flight deck.** I'm training to become an airline pilot through **ATP Flight School's Airline Career Pilot Program** at Sugar Land Regional Airport (SGR) — the accelerated, airline-oriented track from zero time to 1,500 hours, with Career Track™ agreements to the major carriers.
+
+`Private (PPL)` → `Instrument` → `Commercial` → `Multi-Engine` → `CFI` → `CFII / MEI` → `1,500 hrs → ATP`
+
+The same habits that made me good at engineering — discipline, systems thinking, running the checklist right every single time — are exactly what the flight deck rewards. Follow the live progress at **[yashhooda.ai](https://yashhooda.ai)** (real-time flight tracker included).
+
+---
+
 ### `> whoami`
 
-Data & AI Engineer in Houston building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook.
+Data & AI Engineer in Houston building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook. This is the foundation that funds the flying, and the two are more alike than they look: both are about building reliable systems under real constraints and never trusting the happy path.
 
-Day job: I own an end-to-end **Toast POS → PySpark → Delta Lake → Power BI** pipeline serving 25 franchise locations and millions in tracked revenue. Nights: I ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all of it live in production on real traffic.
+- Owned an end-to-end **Toast POS → PySpark → Delta Lake → Power BI** pipeline serving 25 franchise locations and millions in tracked revenue.
+- Ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all live in production on real traffic.
 
-The overlap is the whole point. **Most people doing AI can't build the data layer. Most people building data layers can't ship AI.** I do both.
+**Most people doing AI can't build the data layer. Most people building data layers can't ship AI.** I do both.
 
 📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas · 📜 Databricks Certified Data Engineer Associate
-🟢 **Open to Software Engineer / Data Engineer / AI Engineer roles — remote or Houston hybrid**
 
 ---
 
@@ -41,7 +55,7 @@ The overlap is the whole point. **Most people doing AI can't build the data laye
 #### 🧠 [yashhooda.ai](https://yashhooda.ai)
 **Full-stack AI platform · Node.js · Vercel · Upstash**
 
-Not a portfolio site — an AI application that happens to have my resume in it.
+Not a portfolio site — an AI application that happens to have my resume in it (and a live flight tracker).
 
 - **Hybrid RAG**: dense + sparse retrieval, Reciprocal Rank Fusion, CRAG 1–5 relevance grading, conditional web-search fallback and query rewriting, cross-encoder reranking
 - **Multi-model gateway**: Claude, GPT, Grok, Gemini, Llama behind one interface
@@ -53,43 +67,28 @@ Not a portfolio site — an AI application that happens to have my resume in it.
 </td>
 <td width="50%" valign="top">
 
-#### 📊 NBC Franchise MIS Dashboard
-**Python ETL · Vercel · Toast API**
+#### ✈️ Infinite Flight Live Tracker
+**FastAPI · Live map · Real-time telemetry**
 
-Operational intelligence for 25 Nothing Bundt Cakes stores across TX / NJ / CO.
-
-- Idempotent, keyed, versioned cache layer — safe to replay any window without double-counting
-- **Third-party delivery attribution**: resolves opaque payment-type GUIDs to DoorDash / Uber Eats / Grubhub / ezCater
-- 12-card operational KPI strip; reactive payment-mix analysis across store, state, and date-range filters
-- Automated refresh on cron with deploy-guard to avoid no-op builds
+A real-time tracker for the Infinite Flight simulator: live map of every aircraft on a server (coloured by flight phase), origin→destination cards with live ETAs, arrival weather + 5-day forecast, switchable satellite & day/night layers, ATC frequencies, and pilot logbooks. FastAPI backend proxies and caches the Live API so keys never touch the browser.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 [hoodahiring.ai](https://hoodahiring.ai)
-**LLM resume intelligence · Python · Docker · Railway**
+#### 📊 NBC Franchise MIS Dashboard
+**Python ETL · Vercel · Toast API**
 
-Parses resumes into structured candidate intelligence and scores fit against a live job description. Containerized, custom domain, deployed and indexed.
-
-#### 🏃 HoodaRoutes
-**Three-runtime distributed system**
-
-Generates personalized running routes from your Strava history, calibrates distance against the OpenRouteService API with a bounded proportional retry loop, and **pushes the course directly to a Garmin watch** — including a sideloaded Connect IQ app I built for the FR970.
+Operational intelligence for 25 Nothing Bundt Cakes stores across TX / NJ / CO. Idempotent, keyed, versioned cache; third-party delivery attribution resolving opaque payment GUIDs to DoorDash / Uber Eats / Grubhub / ezCater; reactive KPI + payment-mix analytics.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 Databricks LLM Fine-Tuning Pipeline
-**Mistral-7B · QLoRA · MLflow · Unity Catalog**
+#### 🎯 [hoodahiring.ai](https://hoodahiring.ai)
+**LLM resume intelligence · Docker · Railway**
 
-End-to-end fine-tune of a PySpark coding assistant. Hybrid architecture spanning Databricks (CPU prep) and Colab T4 (GPU train), with MLflow experiment tracking and LoRA adapters shipped to HuggingFace Hub.
-
-#### ⚙️ Offline ReAct Agent
-**Zero cloud dependency**
-
-A ReAct agent built from scratch against a local Ollama model — no API, no network. Built to understand what LangGraph is actually doing under the hood before trusting it in production.
+Parses resumes into structured candidate intelligence and scores fit against a live job description. Containerized, custom domain, deployed and indexed.
 
 </td>
 </tr>
@@ -110,7 +109,7 @@ A ReAct agent built from scratch against a local Ollama model — no API, no net
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-`RAG (hybrid + RRF + reranking)` · `CRAG` · `Agentic loops / ReAct` · `QLoRA fine-tuning` · `MLflow` · `Evals` · `Prompt engineering` · `Vector search (Upstash, FAISS, Chroma)`
+`RAG (hybrid + RRF + reranking)` · `CRAG` · `Agentic loops / ReAct` · `QLoRA fine-tuning` · `MLflow` · `Evals` · `Vector search (Upstash, FAISS, Chroma)`
 
 </details>
 
@@ -123,25 +122,9 @@ A ReAct agent built from scratch against a local Ollama model — no API, no net
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Delta](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-`Medallion architecture` · `Incremental ETL with control tables` · `REST API ingestion` · `Idempotent replay` · `Data quality & reconciliation` · `Dimensional modeling`
-
-</details>
-
-<details>
-<summary><b>Platform & Infra</b></summary>
-<br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Redis](https://img.shields.io/badge/Upstash_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+`Medallion architecture` · `Incremental ETL with control tables` · `REST API ingestion` · `Idempotent replay` · `Data quality & reconciliation`
 
 </details>
 
@@ -162,19 +145,19 @@ A ReAct agent built from scratch against a local Ollama model — no API, no net
 
 ### `> cat interests.txt`
 
-Marathoner chasing **sub-3:00** — which is why half my side projects are running infrastructure. Also: aviation, weather systems, NBA, independent science, and the kind of open-ended research rabbit holes that end at 2 a.m. with a new repo.
+**Aviation** — training toward the airline flight deck at ATP, and building flight-tracking tools for fun. **Running** — marathoner chasing sub-3:00, which is why half my side projects are running infrastructure. Also: weather systems, NBA, independent science, and open-ended research rabbit holes that end at 2 a.m. with a new repo.
 
 <div align="center">
 <br/>
 
-**Building AI that ships. Open to what's next.**
+**Building AI that ships. Training to fly. Open to what's next.**
 
 <a href="mailto:yash.hooda6@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-yash.hooda6@gmail.com-4caf50?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4caf50,50:1e293b,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4caf50,50:0b3d91,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
+
 <!---
 yashhooda1/yashhooda1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
