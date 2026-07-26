@@ -9,7 +9,6 @@
 <br/>
 
 <a href="https://yashhooda.ai"><img src="https://img.shields.io/badge/Portfolio-yashhooda.ai-4caf50?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://hoodahiring.ai"><img src="https://img.shields.io/badge/Live_App-hoodahiring.ai-2d3748?style=for-the-badge&logo=railway&logoColor=white" /></a>
 <a href="https://linkedin.com/in/yash-hooda-384430242"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yash.hooda6@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
