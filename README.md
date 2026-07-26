@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Aspiring%20Airline%20Pilot%20%E2%9C%88%EF%B8%8F%20·%20AI%20%26%20Data%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Aspiring%20Airline%20Pilot%20%E2%9C%88%EF%B8%8F%20·%20AI%20%2B%20Data%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://yashhooda.ai">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Now+training+to+fly+%E2%80%94+ATP+Airline+Career+Pilot+Program.;Engineer's+discipline%2C+aimed+at+the+flight+deck.;Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic." alt="Typing SVG" />
