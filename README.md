@@ -39,7 +39,6 @@ The same habits that made me good at engineering — discipline, systems thinkin
 
 I got here as a **Data & AI Engineer** building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook. That work is the foundation funding the flying, and the two are more alike than they look: both are about building reliable systems under real constraints and never trusting the happy path.
 
-- Owned an end-to-end **Toast POS → PySpark → Delta Lake → Power BI** pipeline serving 25 franchise locations and millions in tracked revenue.
 - Ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all live in production on real traffic.
 
 📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas · 📜 Databricks Certified Data Engineer Associate
