@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer%20·%20Aspiring%20Airline%20Pilot%20%E2%9C%88%EF%B8%8F&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Aspiring%20Airline%20Pilot%20%E2%9C%88%EF%B8%8F%20·%20AI%20%26%20Data%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://yashhooda.ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic.;Now+training+to+fly+%E2%80%94+ATP+Airline+Career+Pilot+Program.;Engineer's+discipline%2C+aimed+at+the+flight+deck." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Now+training+to+fly+%E2%80%94+ATP+Airline+Career+Pilot+Program.;Engineer's+discipline%2C+aimed+at+the+flight+deck.;Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,12 +35,12 @@ The same habits that made me good at engineering — discipline, systems thinkin
 
 ### `> whoami`
 
-Data & AI Engineer in Houston building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook. This is the foundation that funds the flying, and the two are more alike than they look: both are about building reliable systems under real constraints and never trusting the happy path.
+**Training to become an airline pilot** — currently in ATP Flight School's Airline Career Pilot Program at Sugar Land Regional (SGR), working toward my Private Pilot Certificate and, ultimately, the flight deck at a major carrier.
+
+I got here as a **Data & AI Engineer** building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook. That work is the foundation funding the flying, and the two are more alike than they look: both are about building reliable systems under real constraints and never trusting the happy path.
 
 - Owned an end-to-end **Toast POS → PySpark → Delta Lake → Power BI** pipeline serving 25 franchise locations and millions in tracked revenue.
 - Ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all live in production on real traffic.
-
-**Most people doing AI can't build the data layer. Most people building data layers can't ship AI.** I do both.
 
 📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas · 📜 Databricks Certified Data Engineer Associate
 
@@ -48,47 +48,45 @@ Data & AI Engineer in Houston building **production** systems — the kind with 
 
 ### `> systems.ls --production`
 
+#### 🧠 [yashhooda.ai](https://yashhooda.ai) — flagship platform
+**Full-stack AI application · Node.js · Vercel · Upstash**
+
+Not a portfolio site — an AI application that happens to have my resume in it. Live ADS-B flight tracker, my pilot-training journey, a hybrid RAG chatbot (dense + sparse retrieval, RRF, CRAG grading, cross-encoder reranking), a multi-model gateway (Claude, GPT, Grok, Gemini, Llama), and a 7-layer security gateway. Survived a sustained real-world attack campaign — defenses held.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [yashhooda.ai](https://yashhooda.ai)
-**Full-stack AI platform · Node.js · Vercel · Upstash**
+#### ✈️ [Infinite Flight Live Tracker](https://github.com/yashhooda1/IF-Flight-Tracker)
+**Python · FastAPI · Leaflet · Live API**
 
-Not a portfolio site — an AI application that happens to have my resume in it (and a live flight tracker).
-
-- **Hybrid RAG**: dense + sparse retrieval, Reciprocal Rank Fusion, CRAG 1–5 relevance grading, conditional web-search fallback and query rewriting, cross-encoder reranking
-- **Multi-model gateway**: Claude, GPT, Grok, Gemini, Llama behind one interface
-- **7-layer security gateway**: per-IP rate limiting, jailbreak detection, VPN/datacenter fingerprinting, CIDR blocks, content-guard auto-ban, Redis kill switch
-- Agentic coding loop, autonomous research agent on cron, voice I/O, live Strava/flight/climate telemetry
-
-> Survived a sustained real-world attack campaign. Defenses held.
+Real-time tracker for the Infinite Flight simulator: live map of every aircraft (coloured by flight phase), origin→destination cards with live ETAs, arrival weather + 5-day forecast, satellite/day-night layers, ATC frequencies, and pilot logbooks. FastAPI backend proxies and caches the Live API so keys never touch the browser.
 
 </td>
 <td width="50%" valign="top">
 
-#### ✈️ Infinite Flight Live Tracker
-**FastAPI · Live map · Real-time telemetry**
+#### 🌎 [ClimatePulse](https://github.com/yashhooda1/climatepulse)
+**Python · pandas · scikit-learn · NOAA · GitHub Actions**
 
-A real-time tracker for the Infinite Flight simulator: live map of every aircraft on a server (coloured by flight phase), origin→destination cards with live ETAs, arrival weather + 5-day forecast, switchable satellite & day/night layers, ATC frequencies, and pilot logbooks. FastAPI backend proxies and caches the Live API so keys never touch the browser.
+56-year (1970–2026) Bronze→Silver→Gold climate pipeline across 13 global cities, auto-refreshed daily via GitHub Actions. Trend regressions, heat-day counts, and city comparisons — weather being a core pilot skill. Houston warming: +0.77°F/decade.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 NBC Franchise MIS Dashboard
-**Python ETL · Vercel · Toast API**
+#### 🗺️ [HoodaRoutes](https://routes.yashhooda.ai)
+**Next.js · FastAPI · Strava · Garmin Connect IQ**
 
-Operational intelligence for 25 Nothing Bundt Cakes stores across TX / NJ / CO. Idempotent, keyed, versioned cache; third-party delivery attribution resolving opaque payment GUIDs to DoorDash / Uber Eats / Grubhub / ezCater; reactive KPI + payment-mix analytics.
+Worldwide running-route generator: road-snapped loops calibrated to a target distance, personalized to your Strava history, with one-tap push to Garmin and a companion Connect IQ watch app sideloaded onto a Forerunner 970.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎯 [hoodahiring.ai](https://hoodahiring.ai)
-**LLM resume intelligence · Docker · Railway**
+#### ⌚ [Garmin MCP Server](https://github.com/yashhooda1/mcp-garmin)
+**Python · MCP · FastMCP · Docker**
 
-Parses resumes into structured candidate intelligence and scores fit against a live job description. Containerized, custom domain, deployed and indexed.
+Model Context Protocol server that lets Claude read Garmin activities and push structured workouts and full training plans straight to a watch. Reverse-engineered Garmin's workout-service schema into a typed, LLM-friendly spec — garth SSO auth, a bearer-secured transport, offline tests, and CI.
 
 </td>
 </tr>
