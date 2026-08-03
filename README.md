@@ -102,21 +102,6 @@ Model Context Protocol server that lets Claude read Garmin activities and push s
 
 </details>
 
-<details open>
-<summary><b>Data Engineering</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-`Medallion architecture` · `Incremental ETL with control tables` · `REST API ingestion` · `Idempotent replay` · `Data quality & reconciliation`
-
-</details>
-
 ---
 
 ### `> git log --stat`
