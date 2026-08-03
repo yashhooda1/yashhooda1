@@ -73,13 +73,6 @@ Real-time tracker for the Infinite Flight simulator: live map of every aircraft 
 <tr>
 <td width="50%" valign="top">
 
-#### 🗺️ [HoodaRoutes](https://routes.yashhooda.ai)
-**Next.js · FastAPI · Strava · Garmin Connect IQ**
-
-Worldwide running-route generator: road-snapped loops calibrated to a target distance, personalized to your Strava history, with one-tap push to Garmin and a companion Connect IQ watch app sideloaded onto a Forerunner 970.
-
-</td>
-<td width="50%" valign="top">
 
 #### ⌚ [Garmin MCP Server](https://github.com/yashhooda1/mcp-garmin)
 **Python · MCP · FastMCP · Docker**
