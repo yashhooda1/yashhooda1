@@ -40,7 +40,7 @@ I got here as a **Data & AI Engineer** building **production** systems — the k
 
 - Ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all live in production on real traffic.
 
-📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas · 📜 Databricks Certified Data Engineer Associate
+📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas 
 
 ---
 
