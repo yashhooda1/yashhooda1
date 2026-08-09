@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Aspiring%20Airline%20Pilot%20%E2%9C%88%EF%B8%8F%20·%20AI%20%2B%20Data%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=AI%20%2B%20Data%20Engineer%20·%20Production%20LLM%20Systems&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://yashhooda.ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Now+training+to+fly+%E2%80%94+ATP+Airline+Career+Pilot+Program.;Engineer's+discipline%2C+aimed+at+the+flight+deck.;Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic.;Pipelines+that+run+daily+without+me.;Rate+limiters%2C+kill+switches%2C+real+traffic." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,33 +14,21 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F_Now_training-ATP_Flight_School_·_Sugar_Land_(SGR)-3b82f6?style=for-the-badge&logoColor=white" />
-
 <img src="https://komarev.com/ghpvc/?username=yashhooda1&label=Profile%20views&color=4caf50&style=flat-square" alt="views" />
 
 </div>
 
 ---
 
-### `> now.log`
-
-**✈️ Chasing the flight deck.** I'm training to become an airline pilot through **ATP Flight School's Airline Career Pilot Program** at Sugar Land Regional Airport (SGR) — the accelerated, airline-oriented track from zero time to 1,500 hours, with Career Track™ agreements to the major carriers.
-
-`Private (PPL)` → `Instrument` → `Commercial` → `Multi-Engine` → `CFI` → `CFII / MEI` → `1,500 hrs → ATP`
-
-The same habits that made me good at engineering — discipline, systems thinking, running the checklist right every single time — are exactly what the flight deck rewards. Follow the live progress at **[yashhooda.ai](https://yashhooda.ai)** (real-time flight tracker included).
-
----
-
 ### `> whoami`
 
-**Training to become an airline pilot** — currently in ATP Flight School's Airline Career Pilot Program at Sugar Land Regional (SGR), working toward my Private Pilot Certificate and, ultimately, the flight deck at a major carrier.
-
-I got here as a **Data & AI Engineer** building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook. That work is the foundation funding the flying, and the two are more alike than they look: both are about building reliable systems under real constraints and never trusting the happy path.
+**Data & AI Engineer** building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook.
 
 - Ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all live in production on real traffic.
+- Build data pipelines that run themselves: scheduled ingestion, incremental caching, validation floors, and CI that catches bad data before it lands.
+- Fine-tune and evaluate — QLoRA adapters, golden test sets, offline eval harnesses.
 
-📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas 
+📍 Richmond, TX · 🎓 BS Computer Science, UT Dallas
 
 ---
 
@@ -49,35 +37,42 @@ I got here as a **Data & AI Engineer** building **production** systems — the k
 #### 🧠 [yashhooda.ai](https://yashhooda.ai) — flagship platform
 **Full-stack AI application · Node.js · Vercel · Upstash**
 
-Not a portfolio site — an AI application that happens to have my resume in it. Live ADS-B flight tracker, my pilot-training journey, a hybrid RAG chatbot (dense + sparse retrieval, RRF, CRAG grading, cross-encoder reranking), a multi-model gateway (Claude, GPT, Grok, Gemini, Llama), and a 7-layer security gateway. Survived a sustained real-world attack campaign — defenses held.
+Not a portfolio site — an AI application that happens to have my resume in it. A hybrid RAG chatbot (dense + sparse retrieval, RRF, CRAG grading, cross-encoder reranking), a multi-model gateway (Claude, GPT, Grok, Gemini, Llama), live ADS-B data ingestion, and a 7-layer security gateway. Survived a sustained real-world attack campaign — defenses held.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ✈️ [Infinite Flight Live Tracker](https://github.com/yashhooda1/IF-Flight-Tracker)
-**Python · FastAPI · Leaflet · Live API**
+#### 🌎 [ClimatePulse](https://github.com/yashhooda1/climatepulse)
+**Python · pandas · scikit-learn · NOAA · GitHub Actions**
 
-Real-time tracker for the Infinite Flight simulator: live map of every aircraft (coloured by flight phase), origin→destination cards with live ETAs, arrival weather + 5-day forecast, satellite/day-night layers, ATC frequencies, and pilot logbooks. FastAPI backend proxies and caches the Live API so keys never touch the browser.
+57-year (1970–2026) Bronze→Silver→Gold climate pipeline across 13 global stations, auto-refreshed daily via GitHub Actions. Incremental per-station caching cut the run from 741 NOAA API calls to 13. Trend regressions, heat-day counts, station-level validation floors, and freshness checks. Houston warming: +0.79°F/decade.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌎 [ClimatePulse](https://github.com/yashhooda1/climatepulse)
-**Python · pandas · scikit-learn · NOAA · GitHub Actions**
+#### 🤖 [Offline SLM Agent](https://github.com/yashhooda1/slm-offline-ai-agent)
+**Python · ReAct · stdlib-only**
 
-56-year (1970–2026) Bronze→Silver→Gold climate pipeline across 13 global cities, auto-refreshed daily via GitHub Actions. Trend regressions, heat-day counts, and city comparisons — weather being a core pilot skill. Houston warming: +0.77°F/decade.
+A fully offline ReAct agent on a local small language model — hand-written loop, six sandboxed tools, no API key, no CDN dependencies. Testable without a model loaded; 10/10 tests green. Published to Ollama under the `hoodarunner/` namespace.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-
 #### ⌚ [Garmin MCP Server](https://github.com/yashhooda1/mcp-garmin)
 **Python · MCP · FastMCP · Docker**
 
 Model Context Protocol server that lets Claude read Garmin activities and push structured workouts and full training plans straight to a watch. Reverse-engineered Garmin's workout-service schema into a typed, LLM-friendly spec — garth SSO auth, a bearer-secured transport, offline tests, and CI.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ [Live Flight Tracker](https://github.com/yashhooda1/IF-Flight-Tracker)
+**Python · FastAPI · Leaflet · Live API**
+
+Real-time geospatial ingestion and visualization: live aircraft map coloured by flight phase, origin→destination cards with computed ETAs, arrival weather + 5-day forecast, and layered map tiles. FastAPI backend proxies and caches the upstream API so keys never touch the browser.
 
 </td>
 </tr>
@@ -119,12 +114,12 @@ Model Context Protocol server that lets Claude read Garmin activities and push s
 
 ### `> cat interests.txt`
 
-**Aviation** — training toward the airline flight deck at ATP, and building flight-tracking tools for fun. **Running** — marathoner chasing sub-3:00, which is why half my side projects are running infrastructure. Also: weather systems, NBA, independent science, and open-ended research rabbit holes that end at 2 a.m. with a new repo.
+**Running** — marathoner chasing sub-3:00, which is why half my side projects are running infrastructure. Also: weather systems, aviation data, NBA, independent science, and open-ended research rabbit holes that end at 2 a.m. with a new repo.
 
 <div align="center">
 <br/>
 
-**Building AI that ships. Training to fly. Open to what's next.**
+**Building AI that ships. Open to what's next.**
 
 <a href="mailto:yash.hooda6@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-yash.hooda6@gmail.com-4caf50?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 
