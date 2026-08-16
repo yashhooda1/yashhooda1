@@ -76,6 +76,16 @@ Real-time geospatial ingestion and visualization: live aircraft map coloured by 
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🌪️ [metar-stream](https://github.com/yashhooda1/metar-stream)
+**Kafka (Redpanda) · Spark Structured Streaming · Delta Lake · Python**
+
+Real-time streaming pipeline ingesting NOAA METAR surface observations from every reporting US airport station into a Bronze→Silver→Gold Delta medallion. Exactly-once checkpointing, schema enforcement at the Bronze boundary, and derived FAA flight categories (VFR/MVFR/IFR/LIFR) — the same four a pilot checks before departing. Six engineering findings documented in the repo, including watermark tuning and small-file compaction.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -114,7 +124,11 @@ Real-time geospatial ingestion and visualization: live aircraft map coloured by 
 
 ### `> cat interests.txt`
 
-**Running** — marathoner chasing sub-3:00, which is why half my side projects are running infrastructure. Also: weather systems, aviation data, NBA, independent science, and open-ended research rabbit holes that end at 2 a.m. with a new repo.
+**Running** — marathoner chasing sub-3:00, which is why half my side projects are running infrastructure: Garmin MCP server, Strava intelligence, route planning.
+
+**Aviation** — working toward my private pilot certificate with the airlines as the long-term goal, flying part-time and funding it as I go. It's also where the other half of my projects come from: the METAR streaming pipeline, the live flight tracker, the Infinite Flight tooling. The domain interest came first; the engineering followed it.
+
+Also: weather systems, NBA, independent science, and open-ended research rabbit holes that end at 2 a.m. with a new repo.
 
 <div align="center">
 <br/>
