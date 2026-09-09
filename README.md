@@ -113,8 +113,8 @@ Real-time streaming pipeline ingesting NOAA METAR surface observations from ever
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashhooda1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhooda1&layout=compact&hide_border=true&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://yashhooda-gh-stats.vercel.app/api?username=yashhooda1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://yashhooda-gh-stats.vercel.app/api/top-langs/?username=yashhooda1&layout=compact&hide_border=true&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&langs_count=8" />
 
 <img width="98%" src="https://yashhooda-activity-graph.vercel.app/graph?username=yashhooda1&bg_color=0d1117&color=c9d1d9&line=4caf50&point=ffffff&area=true&hide_border=true" />
 
