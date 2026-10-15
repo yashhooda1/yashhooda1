@@ -46,7 +46,7 @@ Not a portfolio site — an AI application that happens to have my resume in it.
 #### 🌎 [ClimatePulse](https://github.com/yashhooda1/climatepulse)
 **Python · pandas · scikit-learn · NOAA · GitHub Actions**
 
-57-year (1970–2026) Bronze→Silver→Gold climate pipeline across 13 global stations, auto-refreshed daily via GitHub Actions. Incremental per-station caching cut the run from 741 NOAA API calls to 13. Trend regressions, heat-day counts, station-level validation floors, and freshness checks. Houston warming: +0.79°F/decade.
+57-year (1970–2026) Bronze→Silver→Gold climate pipeline across 14 global stations, auto-refreshed daily via GitHub Actions. Incremental per-station caching cut the run from 741 NOAA API calls to 13. Trend regressions, heat-day counts, station-level validation floors, and freshness checks. Houston warming: +0.81°F/decade. Austin warming: +0.77°F/decade.
 
 </td>
 <td width="50%" valign="top">
