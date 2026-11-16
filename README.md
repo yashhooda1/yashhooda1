@@ -60,10 +60,10 @@ A fully offline ReAct agent on a local small language model — hand-written loo
 <tr>
 <td width="50%" valign="top">
 
-#### ⌚ [Garmin MCP Server](https://github.com/yashhooda1/mcp-garmin)
-**Python · MCP · FastMCP · Docker**
+#### ⌚ [Apple Workouts MCP Server](https://github.com/yashhooda1/mcp-apple-workouts)
+**Python · MCP · WorkoutKit · Swift · Docker**
 
-Model Context Protocol server that lets Claude or ChatGPT read Garmin activities and push structured workouts and full training plans straight to a watch. Reverse-engineered Garmin's workout-service schema into a typed, LLM-friendly spec — garth SSO auth, a bearer-secured transport, offline tests, and CI.
+Model Context Protocol server that lets Claude or ChatGPT build structured runs, strength sessions, and multi-week training plans and put them on an Apple Watch. Compiles each workout to JSON that maps 1:1 onto WorkoutKit, which a companion iPhone app schedules to the Watch — with an Apple Calendar feed, OAuth 2.1 for connectors, per-runner accounts, offline tests, and CI.
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +123,7 @@ Real-time streaming pipeline ingesting NOAA METAR surface observations from ever
 
 ### `> cat interests.txt`
 
-**Running** — Hobby Jogger chasing lifelong sub-3:00 marathon, which is why half my side projects are running infrastructure: Garmin MCP server, Strava intelligence, route planning.
+**Running** — Hobby Jogger chasing lifelong sub-3:00 marathon, which is why half my side projects are running infrastructure: Apple Watch MCP server, Strava intelligence, route planning.
 
 **Aviation** — working toward my private pilot certificate, flying part-time and funding it as I go. It's also where the other half of my projects come from: the METAR streaming pipeline, the live flight tracker, the Infinite Flight tooling. The domain interest came first; the engineering followed it.
 
