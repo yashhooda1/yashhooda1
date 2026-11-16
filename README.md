@@ -63,7 +63,7 @@ A fully offline ReAct agent on a local small language model — hand-written loo
 #### ⌚ [Garmin MCP Server](https://github.com/yashhooda1/mcp-garmin)
 **Python · MCP · FastMCP · Docker**
 
-Model Context Protocol server that lets Claude read Garmin activities and push structured workouts and full training plans straight to a watch. Reverse-engineered Garmin's workout-service schema into a typed, LLM-friendly spec — garth SSO auth, a bearer-secured transport, offline tests, and CI.
+Model Context Protocol server that lets Claude or ChatGPT read Garmin activities and push structured workouts and full training plans straight to a watch. Reverse-engineered Garmin's workout-service schema into a typed, LLM-friendly spec — garth SSO auth, a bearer-secured transport, offline tests, and CI.
 
 </td>
 <td width="50%" valign="top">
