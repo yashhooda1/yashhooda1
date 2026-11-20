@@ -27,7 +27,7 @@
 - Build data pipelines that run themselves: scheduled ingestion, incremental caching, validation floors, and CI that catches bad data before it lands.
 - Fine-tune and evaluate — QLoRA adapters, golden test sets, offline eval harnesses.
 
-📍 Houston, TX · 🎓 BS Computer Science, UT Dallas
+📍 Richmond/Houston, TX · 🎓 BS Computer Science, UT Dallas
 
 ---
 
