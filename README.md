@@ -123,7 +123,7 @@ Real-time streaming pipeline ingesting NOAA METAR surface observations from ever
 
 ### `> cat interests.txt`
 
-**Running** — Hobby Jogger chasing lifelong sub-3:00 marathon, which is why half my side projects are running infrastructure: Apple Watch MCP server, Strava intelligence, route planning.
+**Running** — a hobby, and the reason half my side projects are running infrastructure: Apple Watch MCP server, Strava intelligence, route planning.
 
 **Aviation** — working toward my private pilot certificate, flying part-time and funding it as I go. It's also where the other half of my projects come from: the METAR streaming pipeline, the live flight tracker, the Infinite Flight tooling. The domain interest came first; the engineering followed it.
 
