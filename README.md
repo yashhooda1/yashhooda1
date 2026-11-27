@@ -21,7 +21,7 @@
 
 ### `> whoami`
 
-**Data & Software/AI Engineer** building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook.
+**Software Engineer** building **production** systems — the kind with rate limiters, kill switches, and a 3 a.m. pager, not the kind that lives in a notebook.
 
 - Ship full-stack AI — multi-model LLM gateways, hybrid RAG with reranking, agentic loops, and vector search — all live in production on real traffic.
 - Build data pipelines that run themselves: scheduled ingestion, incremental caching, validation floors, and CI that catches bad data before it lands.
