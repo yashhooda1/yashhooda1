@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=AI%20%2B%20Data%20Engineer%20·%20Production%20LLM%20Systems&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:4caf50&height=200&section=header&text=Yash%20Hooda&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20·%20Production%20LLM%20Systems&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://yashhooda.ai">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&height=45&lines=Production+LLM+systems.+Not+notebooks.;RAG+%2B+agents+%2B+evals+%E2%80%94+shipped%2C+serving+traffic.;Pipelines+that+run+daily+without+me.;Rate+limiters%2C+kill+switches%2C+real+traffic." alt="Typing SVG" />
